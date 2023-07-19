@@ -2,24 +2,73 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "description": "This is product 1.",
-      "price": 100,
-      "image": "https://example.com/product1.jpg"
+      "name": "Fossil Blue GMT Stainless Steel Watch",
+      "description": "Special GMT edition. This ultimate travel accessory features an easy-to-read GMT hand for coast-to-coast time at a glance. It has a blue sunray watch face, stainless steel bracelet, 100-meter water resistance and rotating 24-hour two-toned bezel.",
+      "price": 279,
+      "image": "https://fossil.scene7.com/is/image/FossilPartners/FS5991_main?$sfcc_fos_large$"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "description": "This is product 2.",
-      "price": 200,
-      "image": "https://example.com/product2.jpg"
+      "name": "OLEVS 6667 Luminous Waterproof Automatic Mechanical Watch",
+      "description": "Introducing the OLEVS 6667 Luminous Waterproof Automatic Mechanical Watch. Experience the precision of its skeleton see-through movement, showcasing the visible quality and classic heritage. With 20 synthetic rubies enhancing winding efficiency, this watch combines elegance and functionality seamlessly. Stay stylish and reliable with its luminous feature and waterproof design.",
+      "price": 185,
+      "image": "https://olevswatches.com/wp-content/uploads/2022/05/OLEVS-Luminous-Waterproof-Automatic-Mechanical-Watch0-768x768.jpg"
     },
     {
       "id": 3,
-      "name": "Product 3",
-      "description": "This is product 3.",
-      "price": 300,
-      "image": "https://example.com/product3.jpg"
+      "name": "Casio Edifice EFV620D-1A2V motorsports watch",
+      "description": "The new large-size blue bezel EFV620D-1A2V standard chronograph is the latest addition to the EDIFICE lineup of quality timepieces. Inspired by motorsports, the overall design and coloring of these models are sporty and fashionable.",
+      "price": 125,
+      "image": "https://images.casiocdn.com/fit-in/500x500/casio-v2/resource/images/products/watches/large/EFV620D-1A2V_large.png"
+    },
+    {
+      "id": 4,
+      "name": "Tommy Hilfiger Casual sub-Dials Black Ion-plated watch",
+      "description": "Tommy Hilfiger men's watch. Time is on your side with our modern bent on the casual watch. Featuring a bold blue ion-plated bezel, multifunction sub-dials, and skeleton hands with a black ion-plated bracelet. Water resistant up to 50 meters.",
+      "price": 195,
+      "image": "https://shoptommy.scene7.com/is/image/ShopTommy/TW001513_460_FNT?wid=720&hei=948&qlt=80%2C0&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0&iccEmbed=0&fmt=webp"
+    },
+    {
+      "id": 5,
+      "name": "Invicta Aviator Men's Watch - 51mm, Black, Orange (40536)",
+      "description": "This incredible Invicta watch from the Aviator collection offers an exact Quartz movement, with an incredible black case. The face displays a , metal dial protected by our proprietary Flame Fusion Crystal. The design is completed by a black, orange, stainless steel, silicone band. This timepiece can resist water for up to 100 m.",
+      "price": 365,
+      "image": "https://invictastores.com/media/catalog/product/4/0/40536_catalogshot_421006_jadbff28no9hxcvc.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Casio Edifice EQS900PB-1BV solar powered watch",
+      "description": "EDIFICE Analog with solar power technology and battery level indicator. Features also include 100 meter water resistant and stopwatch. The bezel comes with an elegant black and blued ion plated treatment .",
+      "price": 155,
+      "image": "https://images.casiocdn.com/fit-in/500x500/casio-v2/resource/images/products/watches/large/EQS900PB-1BV_large.png"
+    },
+    {
+      "id": 7,
+      "name": "Fossil Townsman Automatic Black Leather Watch",
+      "description": "This 44-mm Townsman features a black satin dial with a see-through skeleton sub-eye, automatic movement and a black leather strap.",
+      "price": 349,
+      "image": "https://fossil.scene7.com/is/image/FossilPartners/ME3170_main?$sfcc_fos_large$"
+    },
+    {
+      "id": 8,
+      "name": "OLEVS 9926 Male Starry SKY Moon Earth Dial Watch",
+      "description": "Experience the allure of the OLEVS 9926 Male Starry SKY Moon Earth Dial Watch. With its captivating design featuring a celestial-inspired dial, this timepiece exudes sophistication and individuality. Embrace a life enriched with style and diversity with OLEVS.",
+      "price": 135,
+      "image": "https://olevswatches.com/wp-content/uploads/2023/06/OLEVS-Male-Starry-SKY-Moon-Earth-Dial-Watch-BLACK-concentrate.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fossil Neutra Automatic Smoke Stainless Steel Watch",
+      "description": "This 44 mm Neutra features a black satin dial, automatic movement and a smoke stainless steel bracelet.",
+      "price": 369,
+      "image": "https://fossil.scene7.com/is/image/FossilPartners/ME3185_main?$sfcc_fos_large$"
+    },
+    {
+      "id": 10,
+      "name": "OLEVS Watch 6670 Fully Automatic Mechanical Movement",
+      "description": "FULLY AUTOMATIC MECHANICAL MOVEMENT. “BE Yourself” Extraordinary free and easy personality more than one side. Tidal current, more colorful contrast unstoppable.  Easy handle the  splash challenge. The trend Hollowed out, new street style ‘be yourself.",
+      "price": 172,
+      "image": "https://olevswatches.com/wp-content/uploads/2023/06/OLEVS-Watch-6670-Fully-Automatic-Mechanical-Movement-concentrate-768x768.png"
     }
   ]
 }
